@@ -1,5 +1,7 @@
+Todos os programas abaixo podem ser executados em compiladores online, uma vez que não fazem import de bibliotecas.  
+
 # Ajustando-Votos
-Programa destinado a auxiliar na organização de eleitores. Pode ser executado em compiladores online, uma vez que não importa bibliotecas.  
+Programa destinado a auxiliar na organização de eleitores.   
 O programa exige a seguinte estrutura:<br/>
 <br/>
 Título de Eleitor:  
