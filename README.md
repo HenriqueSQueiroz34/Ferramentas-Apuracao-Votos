@@ -17,3 +17,5 @@ Após ambas as entradas, faz a contagem e exibe o resultado.
 
 # ZonasCPF  
 Nesse programa serão pedidos os votos. O programa recolherá e exibirá o início de cada CPF, sem repetir, em uma tabela de 6 colunas máximas.
+
+** **Em todos os programas é necessário digitar "sair" para finalizar o programa** **
